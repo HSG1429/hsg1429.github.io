@@ -1,0 +1,11 @@
+<ul class="links">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
+  <li class="{% if page.url contains '/hsg/' %} active {% endif %}"><a href="{{ "/hsg/" | absolute_url }}">HSG</a></li>
+  <li class="{% if page.url contains '/aktuelles/' %} active {% endif %}"><a href="{{ "/aktuelles/" | absolute_url }}">Aktuelles</a></li>
+  <li class="{% if page.url contains '/termine/' %} active {% endif %}"><a href="{{ "/termine/" | absolute_url }}">Termine</a></li>
+  <li class="{% if page.url contains '/abteilungen/' %} active {% endif %}"><a href="{{ "/abteilungen/" | absolute_url }}">Abteilungen</a></li>
+  <li class="{% if page.url contains '/trainingszeiten/' %} active {% endif %}"><a href="{{ "/trainingszeiten/" | absolute_url }}">Training</a></li>
+  <li class="{% if page.url contains '/formulare/' %} active {% endif %}"><a href="{{ "/formulare/" | absolute_url }}">Formulare</a></li>
+  <li class="{% if page.url contains '/faq/' %} active {% endif %}"><a href="{{ "/faq/" | absolute_url }}">FAQ</a></li>
+  <li class="{% if page.url contains '/links/' %} active {% endif %}"><a href="{{ "/links/" | absolute_url }}">Links</a></li>
+</ul>
