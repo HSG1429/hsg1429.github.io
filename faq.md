@@ -12,7 +12,7 @@ sitemap:
 
 ### Wie werde ich Mitglied in der HSG?
 
-Unsere aktuellen Mitgliedsbeitrage können Sie dem [Aufnahmeantrag](/formulare/Aufnahmeantrag_pHSG_24-04-2021.pdf) entnehmen. Um die Mitgliedschaft zu beantragen, muss der [Aufnahmeantrag mit Datenschutzerklärung](/formulare/Aufnahmeantrag_pHSG_24-04-2021.pdf){:target="_blank"}, sowie das [SEPA Lastschriftmandat](/formulare/SEPA-Mandat_Formular_2019.pdf) heruntergeladen und am PC ausgefüllt werden.
+Unsere aktuellen Mitgliedsbeitrage können Sie dem Aufnahmeantrag entnehmen. Um die Mitgliedschaft zu beantragen, muss der Aufnahmeantrag mit Datenschutzerklärung, sowie das [SEPA Lastschriftmandat](/formulare/SEPA-Mandat_Formular_2019.pdf) heruntergeladen und am PC ausgefüllt werden.
 Außerdem ist dem Antrag ein Lichtbild und ab 18 Jahren ein Führungszeugnis mit beizulegen. Bei Antragstellern, die bereits Mitglied in einem anderen Schützenverein sind, benötigen wir außerdem eine Kopie der Sachkunde-Bescheinigung. Die kompletten Unterlagen geben Sie ausgedruckt & unterschrieben (auch die Einzugsermächtigung) am besten persönlich bei unserem 1. Schützenmeister Werner Altmann immer Sonntags (außer an Feiertagen) in der Pistolenabteilung ab.
 Sobald wir den Antrag erhalten, wird er überprüft und 4 Wochen lang im Schützenmeisteramt ausgehängt. Danach
 wird der Antrag im Gesellschaftsausschuss vorgestellt und dort darüber entschieden. Nach der Entscheidung setzen wir uns mit Ihnen in Verbindung.

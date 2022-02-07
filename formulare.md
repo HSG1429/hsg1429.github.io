@@ -17,7 +17,7 @@ Hier gibt es die wichtigsten Formulare direkt zum Download. Auf dem Aufnahmeantr
 |                                       |                                                                                              |
 | **Antrag**                            |   **Downloadlink**                                                                           |
 |---------------------------------------+----------------------------------------------------------------------------------------------|
-| Aufnahmeantrag HSG                    | [download](/formulare/Aufnahmeantrag_pHSG_24-04-2021.pdf){:target="_blank"}                  |
+| Aufnahmeantrag HSG                    | Vorübergehend nicht verfügbar                                                                |
 |---------------------------------------+----------------------------------------------------------------------------------------------|
 | Aufnahmeantrag BDS                    | [download](/formulare/BDS-HSG_Aufnahmeantrag_08-01-2019.pdf){:target="_blank"}               |
 |---------------------------------------+----------------------------------------------------------------------------------------------|
